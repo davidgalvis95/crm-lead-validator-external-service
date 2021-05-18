@@ -1,2 +1,2 @@
-Run this service locally using "./gradlew bootRun"
+Run this service locally using `./gradlew bootRun`
 
